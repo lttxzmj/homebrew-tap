@@ -1,6 +1,6 @@
 cask "sleepwing" do
-  version "0.6.2,19"
-  sha256 "e1cf9b1b9097417cca59ff4ac71bb7599e070ec65a8a6e216a0defb92dc141f0"
+  version "0.6.3,20"
+  sha256 "f56531f054bf824a31b9494e2de23f51b2890f3b60eda12b7cb16120f197005f"
 
   url "https://github.com/lttxzmj/sleepwing/releases/download/v#{version.csv.first}-beta.1/Sleepwing-#{version.csv.first}-#{version.csv.second}-beta-macOS-arm64.zip"
   name "Sleepwing"
